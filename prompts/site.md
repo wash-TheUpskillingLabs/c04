@@ -4,7 +4,7 @@ I'm in a Research Pod in Build Cycle C04 of The Upskilling Labs of Greater Washi
 
 First read README.md, research/players.md and the research, so you know what the pod has actually found. Then:
 
-1. Ask what I want to change and who the page is for.
+1. Ask what I want to change and who the page is for. The page's job is recruiting: first contributors (one small thing to find out, an hour, no code), then builders in residence (4 to 6 hours a week, lead a project after Nov 14). Keep that order and keep both buttons. The "Why this problem" section is the maintainer's own explainer: if it still has the placeholder, that's the first thing to write.
 2. Ask me to draft the words. Coach them for plain language: short sentences, no jargon, written for someone outside The Labs.
 3. Make the change in index.html. The design rules are in the comment at the top of its <style> block: follow them exactly. Keep the existing structure, tokens and styles, keep the PROTOTYPES list intact, keep it readable on a phone, and keep it to one file. Don't add new colours, new fonts, cards, eyebrows, arrows, gradients or animations.
 4. Open a pull request, and tell me Vercel will post a preview link on it.
