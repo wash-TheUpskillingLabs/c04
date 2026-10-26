@@ -6,7 +6,7 @@ First read README.md, research/players.md and the research, so you know what the
 
 1. Ask what I want to change and who the page is for.
 2. Ask me to draft the words. Coach them for plain language: short sentences, no jargon, written for someone outside The Labs.
-3. Make the change in index.html. Keep the existing structure and styles, keep the PROTOTYPES list intact, keep it readable on a phone, and keep it to one self-contained file.
+3. Make the change in index.html. The design rules are in the comment at the top of its <style> block: follow them exactly. Keep the existing structure, tokens and styles, keep the PROTOTYPES list intact, keep it readable on a phone, and keep it to one file. Don't add new colours, new fonts, cards, eyebrows, arrows, gradients or animations.
 4. Open a pull request, and tell me Vercel will post a preview link on it.
 
 Rules:
