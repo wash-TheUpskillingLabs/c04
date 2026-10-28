@@ -4,6 +4,8 @@
 
 A Build Cycle is six weeks in which a group of neighbors picks a hard problem, researches it properly, and builds something real in response. This Cycle, for the first time, the problem is The Labs itself: how it teaches, how it's seen, and where it lives.
 
+**This is an internal Cycle.** The Labs is working on itself, so the room's votes guide the work, and the steering committee may also share direction and constraints along the way. When it does, it says so openly in the pod repos, as something to test, not a settled answer.
+
 This repo is the home for the whole Cycle. Each Research Pod has its own repo, linked below.
 
 ## The pods
