@@ -11,7 +11,7 @@ This repo is the home for the whole Cycle. Each Research Pod has its own repo, l
 | Pod | The question | Repo |
 |---|---|---|
 | **Scaffolding** | How much structure does a learner need, when, and from whom? | [c04-scaffolding](https://github.com/wash-TheUpskillingLabs/c04-scaffolding) |
-| **Wayfinding** | How does an adaptive, self-directed experience stay legible to the people in it, and to the people deciding whether to back it? | [c04-wayfinding](https://github.com/wash-TheUpskillingLabs/c04-wayfinding) |
+| **Wayfinding** | How do people find their way between the parts of The Labs, and what do they need to see to choose the route that fits them? | [c04-wayfinding](https://github.com/wash-TheUpskillingLabs/c04-wayfinding) |
 | **Front Door** | What does each of The Labs' stakeholders need OLOS to be, and how does one shared home stay reachable from many places? | [c04-frontdoor](https://github.com/wash-TheUpskillingLabs/c04-frontdoor) |
 
 ## How we work
