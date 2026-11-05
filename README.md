@@ -16,6 +16,8 @@ This repo is the home for the whole Cycle. Each Research Pod has its own repo, l
 | **Wayfinding** | How do people find their way between the parts of The Labs, and what do they need to see to choose the route that fits them? | [c04-wayfinding](https://github.com/wash-TheUpskillingLabs/c04-wayfinding) |
 | **Front Door** | What does each of The Labs' stakeholders need OLOS to be, and how does one shared home stay reachable from many places? | [c04-frontdoor](https://github.com/wash-TheUpskillingLabs/c04-frontdoor) |
 
+The pods formed on sensemaking day, Oct 24. The cards, group sheets and tables they came from are in [`sensemaking/`](sensemaking/).
+
 ## How we work
 
 We use **frame creation**, a research method from designer Kees Dorst (*Frame Innovation*, 2015). Hard problems stay hard because everyone looks at them the same way. So we study the problem first, find the **paradox** (two things that are both true and pull against each other), and look for a **frame**: a new way of seeing the problem that makes the paradox easier to move. Only then do we build.
